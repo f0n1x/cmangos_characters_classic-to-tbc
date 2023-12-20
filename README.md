@@ -1,6 +1,6 @@
 How to leverage this:
 
-* Create a dump of your cmangos-classic characters db. (i.e. mysqldump -u<username> -p<password> cmangos_characters-classic > classic-characters.sql)
+* Create a dump of your cmangos-classic characters db. (i.e. mysqldump -u[username] -p[password] cmangos_characters-classic > classic-characters.sql)
 
 * Create a tbc characters db. (i.e. [From mysql/mariadb] CREATE DATABASE cmangos_characters-tbc;)
 
